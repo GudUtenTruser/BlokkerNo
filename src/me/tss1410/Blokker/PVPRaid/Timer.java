@@ -45,7 +45,7 @@ public class Timer extends BukkitRunnable
 				Bukkit.broadcastMessage(ChatColor.GREEN + "Det er 3 sekunder til raid starter!");
 
 			}
-			if( d.getMinutes() == 00) // Om tiden er 18:noe
+			if(d.getHours() == 18 && d.getMinutes() == 00) // Om tiden er 18:noe
 			{
 				if( !pl.isRaiding )
 				{
