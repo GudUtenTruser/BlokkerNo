@@ -1,0 +1,78 @@
+name: Blokker
+version: 1.0
+main: me.tss1410.Blokker.Main
+commands:
+  raid:
+    description: /raid toggle skrur av og på raid
+  bank:
+    description: Viser informasjon om bank
+  saldo:
+    description: Viser hvor mye du har på konto
+  ss:
+    description: Stabsamtale
+  rank:
+    description: Ranker en person
+  afk:
+    description: Setter deg som AFK
+  warn:
+    description: Setter en warn på en spiller
+  lw:
+    description: Viser dine warnings
+  cwarn:
+    description: Viser en annen sine warnings
+  delwarn:
+    description: Sletter en warn
+  back:
+    description: Teleporterer deg tilbake
+  work:
+    description: Setter deg i work modus
+  sethome:
+    description: Setter et nytt hjem
+  delhome:
+    description: Sletter et hjem
+  h:
+    description: Skriver i handel
+  kick:
+    description: Sparker ut en person
+  m:
+    description: Sender en privat melding
+  r:
+    description: Svarer en melding
+  s:
+    description: Teleporterer deg oppover
+  homes:
+    description: Viser dine hjem
+  home:
+    description: Teleporterer deg til valgt hjem
+  tp:
+    description: Teleporterer deg til en spiller
+  tph:
+    description: Teleporterer en spiller til deg
+  warp:
+    description: Teleporterer deg til en warp
+  setwarp:
+    description: Setter en warp
+  warps:
+    description: Viser alle warps
+  delwarp:
+    description: Sletter en warp
+  tpa:
+    description: Spør om å teleportere til spiller
+  tpaccept:
+    description: Aksepterer teleport forespørsel
+  ban:
+    description: Banner en spiller (Ikke tempban)
+  blokker:
+    description: Kommando for serveren
+  unban:
+    description: Unbanner en spiller
+  tempban:
+    description: Banner en spiller med tid
+  sinfo:
+    description: Viser spillerinformasjon
+  sitt:
+    description: Setter deg på en spiller
+  tips:
+    description: Broadcaster med tips
+  viktig:
+    description: Broadcaster med viktig
